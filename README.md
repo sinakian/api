@@ -1,4 +1,4 @@
-# API project for the Little Lemon restaurant
+# API project for a restaurant
 
 API endpoints
 <br>
